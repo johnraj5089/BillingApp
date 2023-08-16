@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Final Bill</string>
+    <string name="Menu">Menu</string>
+    <string name="quantity">Quantity</string>
+    <string name="bill_summary">Bill Summary</string>
+    <string name="refresh">Refresh</string>
+    <string name="total">Total :</string>
+    <string-array name="items_array">
+        <item>Select item</item>
+        <item>Idly</item>
+        <item>Plain Dosa</item>
+        <item>Masala Dosa</item>
+        <item>Podi Dosa</item>
+        <item>Pongal</item>
+        <item>Poori</item>
+        <item>Vada</item>
+        <item>Tea</item>
+        <item>Coffee</item>
+    </string-array>
+</resources>
